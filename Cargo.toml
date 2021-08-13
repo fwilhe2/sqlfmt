@@ -7,7 +7,7 @@ authors = ["Thorsten Muerell <thorsten@muerell.de>"]
 lalrpop = "0.15.2"
 
 [dependencies]
-lalrpop-util = "0.15.2"
+lalrpop-util = "0.19.6"
 regex = "1.5.4"
 colored = "2.0"
 clap = "~2.33"
