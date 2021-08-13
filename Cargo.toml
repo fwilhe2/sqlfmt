@@ -8,6 +8,6 @@ lalrpop = "0.15.2"
 
 [dependencies]
 lalrpop-util = "0.15.2"
-regex = "0.2.1"
+regex = "1.5.4"
 colored = "1.6"
 clap = "~2.32"
